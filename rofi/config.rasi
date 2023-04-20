@@ -1,1 +1,15 @@
+configuration {
+    font: "jetBrainsMono 10";
+    line-margin: 10;
+}
 
+@theme "~/.config/rofi/nord.rasi"
+
+listview {
+	lines: 6;
+	columns: 1;
+}
+
+window {
+	width: 30%;
+}
