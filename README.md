@@ -23,3 +23,5 @@ Music Player: NCSpot
 Terminal: Alacritty
 
 Fonts: Jetbrains mono, Roboto, FontAwesome
+
+![NordDesktop2](https://user-images.githubusercontent.com/73403239/233359374-4cd5b328-6ab6-4c42-917f-88a5f4a52f99.png)
