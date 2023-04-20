@@ -21,3 +21,5 @@ File Explorer: Ranger
 Music Player: NCSpot
 
 Terminal: Alacritty
+
+Fonts: Jetbrains mono, Roboto, FontAwesome
